@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#formVip {
+    display: none;
+}
+
+#vipActive h2 {
+    color: black;
+}
+
+#formSign #vipActive:hover h2 {
+    color: yellow;
+}
+
+#signActive {
+    color: black;
+}
+
+#formVip #signActive:hover h2 {
+    color: blue;
+}
